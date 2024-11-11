@@ -12,7 +12,7 @@
 2. FAS134@pitt.edu
 3. LJP93@pitt.edu
 
-**Datasets Used**
+**Datasets Used:**
 1. Allegheny County Toxics Release Inventory
 2. Allegheny County Air Quality
 3. Allegheny County Illegal Dump Sites
